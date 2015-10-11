@@ -1,0 +1,10 @@
+{
+  "jspm": {
+    "dependencies": {
+      "core-js": "npm:core-js@^1.2.1"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}
